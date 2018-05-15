@@ -31,6 +31,8 @@ label start:
     e "Once you add a story, pictures, and music, you can release it to the world!"
     
     e "Extra test to test git"
+    
+    e "Yet another thing to make this work"
 
     # This ends the game.
 
